@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Deploy-Example/static/css/main.80f1aed6.css",
-    "main.js": "/React-Deploy-Example/static/js/main.846413d7.js",
+    "main.js": "/React-Deploy-Example/static/js/main.a1f9d212.js",
     "static/css/793.96698bb1.chunk.css": "/React-Deploy-Example/static/css/793.96698bb1.chunk.css",
     "static/js/793.ae7f32d8.chunk.js": "/React-Deploy-Example/static/js/793.ae7f32d8.chunk.js",
     "static/css/345.d30b3605.chunk.css": "/React-Deploy-Example/static/css/345.d30b3605.chunk.css",
     "static/js/345.1b58bf72.chunk.js": "/React-Deploy-Example/static/js/345.1b58bf72.chunk.js",
     "index.html": "/React-Deploy-Example/index.html",
     "main.80f1aed6.css.map": "/React-Deploy-Example/static/css/main.80f1aed6.css.map",
-    "main.846413d7.js.map": "/React-Deploy-Example/static/js/main.846413d7.js.map",
+    "main.a1f9d212.js.map": "/React-Deploy-Example/static/js/main.a1f9d212.js.map",
     "793.96698bb1.chunk.css.map": "/React-Deploy-Example/static/css/793.96698bb1.chunk.css.map",
     "793.ae7f32d8.chunk.js.map": "/React-Deploy-Example/static/js/793.ae7f32d8.chunk.js.map",
     "345.d30b3605.chunk.css.map": "/React-Deploy-Example/static/css/345.d30b3605.chunk.css.map",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.80f1aed6.css",
-    "static/js/main.846413d7.js"
+    "static/js/main.a1f9d212.js"
   ]
 }
